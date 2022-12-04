@@ -1,0 +1,31 @@
+Contrepet est un programme de résolution de contrepeteries
+
+Il est écrit en python 3.10.7
+
+Ce logiciel utilise Grammalecte, https://grammalecte.net/
+
+Utilisation :
+
+    - Importer ce qu'il faut :
+        pip install requests
+        pip install bs4
+        Il faut aussi itertools et tkinter
+        
+    - Executer main.py
+
+
+Etapes de fonctionnement :
+    (Le code est abondemment commenté dans la langue de Molière, pour les anglophone se reporter à "ReadMe.txt" :
+        - la liste des étapes se trouve dans main.py dans la fonction "chercher_contrepet"
+        - chaque étape est détaillée dans contrepet.py
+
+    - La phrase saisie est traduite en (pseudo) phonétique grace à un des dictionnaires
+    - On extrait de la phrase toutes les sous-chaines possibles
+    - On crée toutes les phrases phonétiques possibles en permuttant les sous chaines et on élimine les phrases trop moches 
+    - On recherche toutes les phrases françaises correspondant aux phrases phonétiques - ça fait beaucoup...
+    - On applique toutes sortes de filtres pour éliminer et classer les solutions, c'est là qu'est l'os, hélas...
+    
+    
+    
+
+
