@@ -284,7 +284,7 @@ def fct_touche_entree(event):
 # Programme principal
 root = Tk()
 
-root.iconbitmap('C:\\Users\\pncef\\Bureau\\contrepet\\contrepet.ico')
+# root.iconbitmap('.\\contrepet.ico')
 root.geometry(str(LARGEUR)+"x"+str(HAUTEUR))
 root.title(TITRE)
 
