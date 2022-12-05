@@ -1,0 +1,7 @@
+contrepet.exe est un exécutable windows fonctionnant indépendamment : vous pouvez l'envoyer à votre oncle pénible pour la Noël, c'est chic et surtout ce n'est pas cher!
+<<Smiley qui cligne de l'oeil deux fois>>
+
+
+PS : j'attends des volontaires travaillant sur macOs et linux pour me faire des exécutables pour ces systèmes. Je peux guider.
+
+

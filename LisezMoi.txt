@@ -5,13 +5,15 @@ Il est écrit en python 3.10.7
 Ce logiciel utilise Grammalecte, https://grammalecte.net/
 
 Utilisation :
-
     - Importer ce qu'il faut :
         pip install requests
         pip install bs4
         Il faut aussi itertools et tkinter
         
     - Executer main.py
+
+Utilisation pour ta grand mère :
+	Double cliquer sur le fichier Contrepet.exe se trouvant dans le dossier output
 
 
 Etapes de fonctionnement :
