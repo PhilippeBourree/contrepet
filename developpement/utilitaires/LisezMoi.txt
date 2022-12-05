@@ -1,0 +1,10 @@
+Ce dossier est complètement inutile au fonctionnement de Contrepet.
+
+
+Il contient divers utilitaires que j'ai conçus pour fabriquer/modifier les dictionnaires utilisés dans le programme.
+
+Je suis parti du dictionnaire "lexique-grammalecte-fr-v7.0.txt" pour aboutir au dictionnaire "dico_contrepet.txt"
+Celui-ci servant à fabriquer les 4 dictionnaires python utilisés dans le logiciel.
+
+
+

@@ -1,0 +1,18 @@
+Ce dossier est complètement inutile au fonctionnement de Contrepet.
+
+
+
+Utilitaires : 
+	Le dossier "utilitaires" contient divers utilitaires que j'ai conçus pour fabriquer/modifier les dictionnaires utilisés dans le programme.
+	Je suis parti du dictionnaire "lexique-grammalecte-fr-v7.0.txt" pour aboutir au dictionnaire "dico_contrepet.txt"
+	Celui-ci servant à fabriquer les 4 dictionnaires python utilisés dans le logiciel.
+
+WIP :
+	Le dossier WIP contient une version executable (lancer main.py) servant au développement.
+	On utilise directement "dico_contrepet.txt" et les dictionnaires python sont fabriqués à la volée.
+	Cela permet une modification facile (?) du dictionnaire. (Beaucoup d'erreurs dans la résolution de contrepeteries sont dues à des erreurs de dictionnaire/mauvaise traduction en pseudo phonétique.)
+	Plus de la moitié du dev consiste à trouver et corriger ces erreurs...
+
+
+
+
