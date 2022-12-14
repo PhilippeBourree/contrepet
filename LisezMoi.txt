@@ -12,22 +12,20 @@ Utilisation :
         
     - Executer main.py
 
-Utilisation pour ta grand mère :
-	Double cliquer sur le fichier Contrepet.exe se trouvant dans le dossier output
+Utilisation pour ta grand-mère :
+    Double-cliquer sur le fichier Contrepet.exe se trouvant dans le dossier output
 
 
 Etapes de fonctionnement :
-    (Le code est abondemment commenté dans la langue de Molière, pour les anglophone se reporter à "ReadMe.txt" :
-        - la liste des étapes se trouve dans main.py dans la fonction "chercher_contrepet"
+    (Le code est abondamment commenté dans la langue de Molière, pour les anglophones se reporter à "ReadMe.txt" :
+        - la liste des étapes se trouve dans main.py, la fonction "chercher_contrepet"
         - chaque étape est détaillée dans contrepet.py
 
-    - La phrase saisie est traduite en (pseudo) phonétique grace à un des dictionnaires
+    - La phrase saisie est traduite en (pseudo) phonétique grâce à un des dictionnaires
     - On extrait de la phrase toutes les sous-chaines possibles
-    - On crée toutes les phrases phonétiques possibles en permuttant les sous chaines et on élimine les phrases trop moches 
+    - On crée toutes les phrases phonétiques possibles en permutant les sous-chaines et on élimine les phrases trop moches
     - On recherche toutes les phrases françaises correspondant aux phrases phonétiques - ça fait beaucoup...
     - On applique toutes sortes de filtres pour éliminer et classer les solutions, c'est là qu'est l'os, hélas...
     
     
     
-
-
